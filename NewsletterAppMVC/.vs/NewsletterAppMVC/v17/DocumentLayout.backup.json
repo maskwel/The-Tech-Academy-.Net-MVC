@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\The Tech Academy\\The-Tech-Academy-.Net-MVC\\NewsletterAppMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33F0D998-B9CC-4400-878A-4C45A156E4C8}|NewsletterAppMVC\\NewsletterAppMVC.csproj|c:\\the tech academy\\the-tech-academy-.net-mvc\\newsletterappmvc\\newsletterappmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33F0D998-B9CC-4400-878A-4C45A156E4C8}|NewsletterAppMVC\\NewsletterAppMVC.csproj|solutionrelative:newsletterappmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33F0D998-B9CC-4400-878A-4C45A156E4C8}|NewsletterAppMVC\\NewsletterAppMVC.csproj|c:\\the tech academy\\the-tech-academy-.net-mvc\\newsletterappmvc\\newsletterappmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33F0D998-B9CC-4400-878A-4C45A156E4C8}|NewsletterAppMVC\\NewsletterAppMVC.csproj|solutionrelative:newsletterappmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\The Tech Academy\\The-Tech-Academy-.Net-MVC\\NewsletterAppMVC\\NewsletterAppMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "NewsletterAppMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\The Tech Academy\\The-Tech-Academy-.Net-MVC\\NewsletterAppMVC\\NewsletterAppMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "NewsletterAppMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T02:24:08.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\The Tech Academy\\The-Tech-Academy-.Net-MVC\\NewsletterAppMVC\\NewsletterAppMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NewsletterAppMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\The Tech Academy\\The-Tech-Academy-.Net-MVC\\NewsletterAppMVC\\NewsletterAppMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NewsletterAppMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T02:23:06.724Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
