@@ -1,26 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\The Tech Academy\\The-Tech-Academy-.Net-MVC\\NewsletterAppMVC\\",
+  "WorkspaceRootPath": "D:\\Web Projects\\The-Tech-Academy-.Net-MVC\\NewsletterAppMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{33F0D998-B9CC-4400-878A-4C45A156E4C8}|NewsletterAppMVC\\NewsletterAppMVC.csproj|C:\\The Tech Academy\\The-Tech-Academy-.Net-MVC\\NewsletterAppMVC\\newsletterappmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{33F0D998-B9CC-4400-878A-4C45A156E4C8}|NewsletterAppMVC\\NewsletterAppMVC.csproj|d:\\web projects\\the-tech-academy-.net-mvc\\newsletterappmvc\\newsletterappmvc\\views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33F0D998-B9CC-4400-878A-4C45A156E4C8}|NewsletterAppMVC\\NewsletterAppMVC.csproj|solutionrelative:newsletterappmvc\\views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33F0D998-B9CC-4400-878A-4C45A156E4C8}|NewsletterAppMVC\\NewsletterAppMVC.csproj|d:\\web projects\\the-tech-academy-.net-mvc\\newsletterappmvc\\newsletterappmvc\\models\\newslettersignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F0D998-B9CC-4400-878A-4C45A156E4C8}|NewsletterAppMVC\\NewsletterAppMVC.csproj|solutionrelative:newsletterappmvc\\models\\newslettersignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33F0D998-B9CC-4400-878A-4C45A156E4C8}|NewsletterAppMVC\\NewsletterAppMVC.csproj|d:\\web projects\\the-tech-academy-.net-mvc\\newsletterappmvc\\newsletterappmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33F0D998-B9CC-4400-878A-4C45A156E4C8}|NewsletterAppMVC\\NewsletterAppMVC.csproj|solutionrelative:newsletterappmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33F0D998-B9CC-4400-878A-4C45A156E4C8}|NewsletterAppMVC\\NewsletterAppMVC.csproj|c:\\the tech academy\\the-tech-academy-.net-mvc\\newsletterappmvc\\newsletterappmvc\\views\\home\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{33F0D998-B9CC-4400-878A-4C45A156E4C8}|NewsletterAppMVC\\NewsletterAppMVC.csproj|solutionrelative:newsletterappmvc\\views\\home\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{33F0D998-B9CC-4400-878A-4C45A156E4C8}|NewsletterAppMVC\\NewsletterAppMVC.csproj|d:\\web projects\\the-tech-academy-.net-mvc\\newsletterappmvc\\newsletterappmvc\\viewmodels\\signupvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F0D998-B9CC-4400-878A-4C45A156E4C8}|NewsletterAppMVC\\NewsletterAppMVC.csproj|solutionrelative:newsletterappmvc\\viewmodels\\signupvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33F0D998-B9CC-4400-878A-4C45A156E4C8}|NewsletterAppMVC\\NewsletterAppMVC.csproj|c:\\the tech academy\\the-tech-academy-.net-mvc\\newsletterappmvc\\newsletterappmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{33F0D998-B9CC-4400-878A-4C45A156E4C8}|NewsletterAppMVC\\NewsletterAppMVC.csproj|solutionrelative:newsletterappmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33F0D998-B9CC-4400-878A-4C45A156E4C8}|NewsletterAppMVC\\NewsletterAppMVC.csproj|C:\\The Tech Academy\\The-Tech-Academy-.Net-MVC\\NewsletterAppMVC\\newsletterappmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{33F0D998-B9CC-4400-878A-4C45A156E4C8}|NewsletterAppMVC\\NewsletterAppMVC.csproj|solutionrelative:newsletterappmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33F0D998-B9CC-4400-878A-4C45A156E4C8}|NewsletterAppMVC\\NewsletterAppMVC.csproj|C:\\The Tech Academy\\The-Tech-Academy-.Net-MVC\\NewsletterAppMVC\\newsletterappmvc\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{33F0D998-B9CC-4400-878A-4C45A156E4C8}|NewsletterAppMVC\\NewsletterAppMVC.csproj|solutionrelative:newsletterappmvc\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Newsletter/True/SqlTable/dbo.SignUps.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,70 +29,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Success.cshtml",
-              "DocumentMoniker": "C:\\The Tech Academy\\The-Tech-Academy-.Net-MVC\\NewsletterAppMVC\\NewsletterAppMVC\\Views\\Home\\Success.cshtml",
-              "RelativeDocumentMoniker": "NewsletterAppMVC\\Views\\Home\\Success.cshtml",
-              "ToolTip": "C:\\The Tech Academy\\The-Tech-Academy-.Net-MVC\\NewsletterAppMVC\\NewsletterAppMVC\\Views\\Home\\Success.cshtml",
-              "RelativeToolTip": "NewsletterAppMVC\\Views\\Home\\Success.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-21T05:22:11.963Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\The Tech Academy\\The-Tech-Academy-.Net-MVC\\NewsletterAppMVC\\NewsletterAppMVC\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "NewsletterAppMVC\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\The Tech Academy\\The-Tech-Academy-.Net-MVC\\NewsletterAppMVC\\NewsletterAppMVC\\Controllers\\HomeController.cs*",
-              "RelativeToolTip": "NewsletterAppMVC\\Controllers\\HomeController.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "SignUpVm.cs",
+              "DocumentMoniker": "D:\\Web Projects\\The-Tech-Academy-.Net-MVC\\NewsletterAppMVC\\NewsletterAppMVC\\ViewModels\\SignUpVm.cs",
+              "RelativeDocumentMoniker": "NewsletterAppMVC\\ViewModels\\SignUpVm.cs",
+              "ToolTip": "D:\\Web Projects\\The-Tech-Academy-.Net-MVC\\NewsletterAppMVC\\NewsletterAppMVC\\ViewModels\\SignUpVm.cs*",
+              "RelativeToolTip": "NewsletterAppMVC\\ViewModels\\SignUpVm.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T01:42:41.673Z",
+              "WhenOpened": "2024-11-24T04:06:24.873Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Site.css",
-              "DocumentMoniker": "C:\\The Tech Academy\\The-Tech-Academy-.Net-MVC\\NewsletterAppMVC\\NewsletterAppMVC\\Content\\Site.css",
-              "RelativeDocumentMoniker": "NewsletterAppMVC\\Content\\Site.css",
-              "ToolTip": "C:\\The Tech Academy\\The-Tech-Academy-.Net-MVC\\NewsletterAppMVC\\NewsletterAppMVC\\Content\\Site.css",
-              "RelativeToolTip": "NewsletterAppMVC\\Content\\Site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-16T02:32:22.612Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\The Tech Academy\\The-Tech-Academy-.Net-MVC\\NewsletterAppMVC\\NewsletterAppMVC\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "NewsletterAppMVC\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\The Tech Academy\\The-Tech-Academy-.Net-MVC\\NewsletterAppMVC\\NewsletterAppMVC\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "NewsletterAppMVC\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-16T02:24:08.929Z",
+              "Title": "dbo.SignUps [\u0414\u0430\u043D\u043D\u044B\u0435]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Newsletter/True/SqlTable/dbo.SignUps.sql",
+              "ToolTip": "dbo.SignUps [\u0414\u0430\u043D\u043D\u044B\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-24T03:01:45.483Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\The Tech Academy\\The-Tech-Academy-.Net-MVC\\NewsletterAppMVC\\NewsletterAppMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "NewsletterAppMVC\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\The Tech Academy\\The-Tech-Academy-.Net-MVC\\NewsletterAppMVC\\NewsletterAppMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "NewsletterAppMVC\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "D:\\Web Projects\\The-Tech-Academy-.Net-MVC\\NewsletterAppMVC\\NewsletterAppMVC\\Views\\Home\\Admin.cshtml",
+              "RelativeDocumentMoniker": "NewsletterAppMVC\\Views\\Home\\Admin.cshtml",
+              "ToolTip": "D:\\Web Projects\\The-Tech-Academy-.Net-MVC\\NewsletterAppMVC\\NewsletterAppMVC\\Views\\Home\\Admin.cshtml*",
+              "RelativeToolTip": "NewsletterAppMVC\\Views\\Home\\Admin.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-16T02:23:06.724Z"
+              "WhenOpened": "2024-11-24T02:31:13.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Web Projects\\The-Tech-Academy-.Net-MVC\\NewsletterAppMVC\\NewsletterAppMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "NewsletterAppMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Web Projects\\The-Tech-Academy-.Net-MVC\\NewsletterAppMVC\\NewsletterAppMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "NewsletterAppMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAFcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T02:29:13.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewsletterSignUp.cs",
+              "DocumentMoniker": "D:\\Web Projects\\The-Tech-Academy-.Net-MVC\\NewsletterAppMVC\\NewsletterAppMVC\\Models\\NewsletterSignUp.cs",
+              "RelativeDocumentMoniker": "NewsletterAppMVC\\Models\\NewsletterSignUp.cs",
+              "ToolTip": "D:\\Web Projects\\The-Tech-Academy-.Net-MVC\\NewsletterAppMVC\\NewsletterAppMVC\\Models\\NewsletterSignUp.cs",
+              "RelativeToolTip": "NewsletterAppMVC\\Models\\NewsletterSignUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T02:27:52.385Z",
+              "EditorCaption": ""
             }
           ]
         }
