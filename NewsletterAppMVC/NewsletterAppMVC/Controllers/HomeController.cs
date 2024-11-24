@@ -13,6 +13,20 @@ namespace NewsletterAppMVC.Controllers
             return View();
         }
 
+        [HttpPost]
+        public ActionResult SignUp(string firstName, string lastName, string emailAddress)
+        {
+            if(string.IsNullOrEmpty(firstName) || string.IsNullOrEmpty(lastName) || string.IsNullOrEmpty(emailAddress))
+            {
+                return View("~/Views/Shared/Error.cshtml");
+            }
+            else 
+            {
+                string connectionString = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=Newsletter;Integrated Security=True;Connect Timeout=30;Encrypt=False;Trust Server Certificate=False;Application Intent=ReadWrite;Multi Subnet Failover=False";
+                return View("Success"); 
+            }
+        }
+
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";

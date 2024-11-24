@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\The Tech Academy\\The-Tech-Academy-.Net-MVC\\NewsletterAppMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{33F0D998-B9CC-4400-878A-4C45A156E4C8}|NewsletterAppMVC\\NewsletterAppMVC.csproj|c:\\the tech academy\\the-tech-academy-.net-mvc\\newsletterappmvc\\newsletterappmvc\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{33F0D998-B9CC-4400-878A-4C45A156E4C8}|NewsletterAppMVC\\NewsletterAppMVC.csproj|solutionrelative:newsletterappmvc\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{33F0D998-B9CC-4400-878A-4C45A156E4C8}|NewsletterAppMVC\\NewsletterAppMVC.csproj|C:\\The Tech Academy\\The-Tech-Academy-.Net-MVC\\NewsletterAppMVC\\newsletterappmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F0D998-B9CC-4400-878A-4C45A156E4C8}|NewsletterAppMVC\\NewsletterAppMVC.csproj|solutionrelative:newsletterappmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33F0D998-B9CC-4400-878A-4C45A156E4C8}|NewsletterAppMVC\\NewsletterAppMVC.csproj|c:\\the tech academy\\the-tech-academy-.net-mvc\\newsletterappmvc\\newsletterappmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{33F0D998-B9CC-4400-878A-4C45A156E4C8}|NewsletterAppMVC\\NewsletterAppMVC.csproj|solutionrelative:newsletterappmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{33F0D998-B9CC-4400-878A-4C45A156E4C8}|NewsletterAppMVC\\NewsletterAppMVC.csproj|c:\\the tech academy\\the-tech-academy-.net-mvc\\newsletterappmvc\\newsletterappmvc\\views\\home\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33F0D998-B9CC-4400-878A-4C45A156E4C8}|NewsletterAppMVC\\NewsletterAppMVC.csproj|solutionrelative:newsletterappmvc\\views\\home\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{33F0D998-B9CC-4400-878A-4C45A156E4C8}|NewsletterAppMVC\\NewsletterAppMVC.csproj|c:\\the tech academy\\the-tech-academy-.net-mvc\\newsletterappmvc\\newsletterappmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{33F0D998-B9CC-4400-878A-4C45A156E4C8}|NewsletterAppMVC\\NewsletterAppMVC.csproj|solutionrelative:newsletterappmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33F0D998-B9CC-4400-878A-4C45A156E4C8}|NewsletterAppMVC\\NewsletterAppMVC.csproj|C:\\The Tech Academy\\The-Tech-Academy-.Net-MVC\\NewsletterAppMVC\\newsletterappmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33F0D998-B9CC-4400-878A-4C45A156E4C8}|NewsletterAppMVC\\NewsletterAppMVC.csproj|solutionrelative:newsletterappmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33F0D998-B9CC-4400-878A-4C45A156E4C8}|NewsletterAppMVC\\NewsletterAppMVC.csproj|C:\\The Tech Academy\\The-Tech-Academy-.Net-MVC\\NewsletterAppMVC\\newsletterappmvc\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{33F0D998-B9CC-4400-878A-4C45A156E4C8}|NewsletterAppMVC\\NewsletterAppMVC.csproj|solutionrelative:newsletterappmvc\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +30,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "C:\\The Tech Academy\\The-Tech-Academy-.Net-MVC\\NewsletterAppMVC\\NewsletterAppMVC\\Views\\Home\\Success.cshtml",
+              "RelativeDocumentMoniker": "NewsletterAppMVC\\Views\\Home\\Success.cshtml",
+              "ToolTip": "C:\\The Tech Academy\\The-Tech-Academy-.Net-MVC\\NewsletterAppMVC\\NewsletterAppMVC\\Views\\Home\\Success.cshtml",
+              "RelativeToolTip": "NewsletterAppMVC\\Views\\Home\\Success.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T05:22:11.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\The Tech Academy\\The-Tech-Academy-.Net-MVC\\NewsletterAppMVC\\NewsletterAppMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "NewsletterAppMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\The Tech Academy\\The-Tech-Academy-.Net-MVC\\NewsletterAppMVC\\NewsletterAppMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "NewsletterAppMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T01:42:41.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Site.css",
               "DocumentMoniker": "C:\\The Tech Academy\\The-Tech-Academy-.Net-MVC\\NewsletterAppMVC\\NewsletterAppMVC\\Content\\Site.css",
               "RelativeDocumentMoniker": "NewsletterAppMVC\\Content\\Site.css",
@@ -34,8 +68,7 @@
               "RelativeToolTip": "NewsletterAppMVC\\Content\\Site.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-16T02:32:22.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-16T02:32:22.612Z"
             },
             {
               "$type": "Document",
@@ -45,23 +78,22 @@
               "RelativeDocumentMoniker": "NewsletterAppMVC\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\The Tech Academy\\The-Tech-Academy-.Net-MVC\\NewsletterAppMVC\\NewsletterAppMVC\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "NewsletterAppMVC\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-16T02:24:08.929Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\The Tech Academy\\The-Tech-Academy-.Net-MVC\\NewsletterAppMVC\\NewsletterAppMVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "NewsletterAppMVC\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\The Tech Academy\\The-Tech-Academy-.Net-MVC\\NewsletterAppMVC\\NewsletterAppMVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "NewsletterAppMVC\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-16T02:23:06.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-16T02:23:06.724Z"
             }
           ]
         }
