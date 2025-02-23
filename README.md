@@ -1,2 +1,2 @@
 # The-Tech-Academy-.Net-MVC
- Contains projets builded during C# and .Net course
+ Contains 2 Web-application projects writed using C# and .Net during The Tech Academy Bootcamp.
